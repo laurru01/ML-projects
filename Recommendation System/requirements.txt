@@ -1,0 +1,10 @@
+IPython
+pandas
+numpy
+scipy
+scikit-learn
+scikit-optimize
+seaborn
+matplotlib
+joblib
+lightfm
