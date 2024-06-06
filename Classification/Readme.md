@@ -1,4 +1,4 @@
-# Customer Churn Analysis
+# Customer Churn Prediction
 
 ## Project Description
 This project focuses on analyzing customer churn to predict which customers are likely to leave a service or product. It uses machine learning algorithms to identify patterns in customer behavior and factors leading to churn. The project involves data preprocessing, exploratory data analysis, feature engineering, model selection, improvement, and deployment. Key Python libraries used include Pandas, NumPy, Scikit-Learn, XGBoost, Optuna, and Flair.
